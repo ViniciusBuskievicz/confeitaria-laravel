@@ -1,0 +1,8 @@
+{
+  "name": "Bolo de cenoura Cypress",
+  "description": "Produto da fixture de teste",
+  "category": "Bolos",
+  "price": 24.9,
+  "stock": 18,
+  "minimum_stock": 4
+}
